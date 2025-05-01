@@ -5,7 +5,6 @@ import { BrowserRouter } from "react-router";
 import AppRoutes from "./config/routes.jsx";
 import { Toaster } from "react-hot-toast";
 import { ChatProvider } from "./context/ChatContext.jsx";
-import routes from './config/routes.jsx';
 
 
 
